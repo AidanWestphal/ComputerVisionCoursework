@@ -1,0 +1,229 @@
+(csci4270) root@DESKTOP-P2U8EQN:~/csci4270/homework/hw3# python hw3_align.py drink-machine drink-final
+Folder already exists, inserting into folder.
+MATCHING IMAGES: 0 1
+Number of matches: 453 with fraction 0.095 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 223 which is 49.23%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 110 inliers which is 49.33%
+FILE WRITTEN STATUS: True
+Images are not good for mosaic calculation.
+MATCHING IMAGES: 0 2
+Number of matches: 462 with fraction 0.097 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 266 which is 57.58%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 75 inliers which is 28.2%
+FILE WRITTEN STATUS: True
+Images are not good for mosaic calculation.
+MATCHING IMAGES: 1 2
+Number of matches: 197 with fraction 0.053 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 19 which is 9.64%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inliers is below threshold, ending here.
+GENERATING MOSAICS
+(csci4270) root@DESKTOP-P2U8EQN:~/csci4270/homework/hw3# python hw3_align.py frear-park frear-final
+Folder already exists, inserting into folder.
+MATCHING IMAGES: 0 1
+Number of matches: 131 with fraction 0.162 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 120 which is 91.6%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 119 inliers which is 99.17%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+GENERATING MOSAICS
+FINISHED MOSAIC
+FILE WRITTEN STATUS: True
+(csci4270) root@DESKTOP-P2U8EQN:~/csci4270/homework/hw3# python hw3_align.py office office-final
+Folder already exists, inserting into folder.
+MATCHING IMAGES: 0 1
+Number of matches: 226 with fraction 0.356 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 199 which is 88.05%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 180 inliers which is 90.45%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+MATCHING IMAGES: 0 2
+Number of matches: 153 with fraction 0.241 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 110 which is 71.9%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 72 inliers which is 65.45%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+MATCHING IMAGES: 1 2
+Number of matches: 114 with fraction 0.21 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 87 which is 76.32%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 57 inliers which is 65.52%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+GENERATING MOSAICS
+FINISHED MOSAIC
+FILE WRITTEN STATUS: True
+FINISHED MOSAIC
+FILE WRITTEN STATUS: True
+(csci4270) root@DESKTOP-P2U8EQN:~/csci4270/homework/hw3# python hw3_align.py tree_mrc tree-final
+Folder already exists, inserting into folder.
+MATCHING IMAGES: 0 1
+Number of matches: 1317 with fraction 0.178 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 1127 which is 85.57%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 953 inliers which is 84.56%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+MATCHING IMAGES: 0 2
+Number of matches: 386 with fraction 0.052 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 205 which is 53.11%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 128 inliers which is 62.44%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+MATCHING IMAGES: 0 3
+Number of matches: 1658 with fraction 0.224 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 1534 which is 92.52%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 1341 inliers which is 87.42%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+MATCHING IMAGES: 1 2
+Number of matches: 797 with fraction 0.133 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 564 which is 70.77%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 494 inliers which is 87.59%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+MATCHING IMAGES: 1 3
+Number of matches: 575 with fraction 0.096 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 421 which is 73.22%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 292 inliers which is 69.36%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+MATCHING IMAGES: 2 3
+Number of matches: 174 with fraction 0.033 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 49 which is 28.16%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inliers is below threshold, ending here.
+GENERATING MOSAICS
+FINISHED MOSAIC
+FILE WRITTEN STATUS: True
+FINISHED MOSAIC
+FILE WRITTEN STATUS: True
+FINISHED MOSAIC
+FILE WRITTEN STATUS: True
+(csci4270) root@DESKTOP-P2U8EQN:~/csci4270/homework/hw3# python hw3_align.py vcc-entrance vcc-final
+Folder already exists, inserting into folder.
+MATCHING IMAGES: 0 1
+Number of matches: 229 with fraction 0.051 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 85 which is 37.12%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 65 inliers which is 76.47%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+MATCHING IMAGES: 0 2
+Number of matches: 1033 with fraction 0.231 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 867 which is 83.93%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 491 inliers which is 56.63%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+MATCHING IMAGES: 1 2
+Number of matches: 79 with fraction 0.163 of total matches.
+FILE WRITTEN STATUS: True
+Images are a good enough match. Continuing.
+Inliners: 28 which is 35.44%
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+FILE WRITTEN STATUS: True
+Number of inlier is above threshold, moving on.
+Homography returned 20 inliers which is 71.43%
+FILE WRITTEN STATUS: True
+Images are good for mosaic calculation. Moving on.
+FINISHED MOSAIC
+GENERATING MOSAICS
+FINISHED MOSAIC
+FILE WRITTEN STATUS: True
+FINISHED MOSAIC
+FILE WRITTEN STATUS: True
